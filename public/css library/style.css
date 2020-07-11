@@ -1,0 +1,157 @@
+
+/* start of navbar css */
+
+
+
+.navbar{
+    background-color: #009999 !important;
+  
+ }
+ 
+ 
+ .navbar-light{
+     color: white !important;
+     
+ }
+
+ .nav-link{
+     font-size: 25px ;
+ }
+
+/* end of navbar css */
+
+
+
+
+/* start of main image css */
+
+.card-img{
+    opacity: 0.5;
+}
+
+.main_colr{
+    color: #005f5f !important;
+    text-align: center !important;
+}
+
+/* end of main image css */
+
+
+
+
+
+/* start of product cards css */
+
+.bg_color{
+    background-color: rgb(245, 245, 245) !important;
+    padding-bottom: 50px !important;
+}
+
+
+
+.card_colr{
+    color: #009999 !important;
+    text-align: center !important;
+    
+}
+
+@media only screen and (min-width: 700px) {
+    .card-title, .card-text {
+      font-size: 50px;
+    }
+  }
+
+
+
+  .btn-primary{
+    background-color: #009999 !important;
+}
+
+.txt_btn{
+    color: white !important;
+    
+}
+
+
+.card{
+    background-color:rgb(245, 245, 245) !important;
+}
+
+
+
+@media only screen and (min-width: 900px) {
+    .card_size {
+      width: 400px;
+    }
+  }
+
+
+
+.card_size{
+    text-align: center;
+ 
+}  
+
+
+.card_spacing{
+    padding-bottom: 100px;
+}
+
+
+/* end of product cards css */
+
+
+/* main heading css */
+.pad{
+    padding-bottom: 50px !important;
+}
+
+.imp_head{
+    text-align: center;
+}
+
+.imp_head,.text_color{
+    color: #009999 !important;
+}
+
+.text_color h2{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.text_color h6{
+    background-color: black;
+    text-align: center;
+}
+
+.logo{
+    display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 150px ;
+}
+
+@media only screen and (max-width: 500px) {
+    .logo_size {
+      width: 70px;
+    }
+  }
+
+
+
+.about_colr{
+ background-color:rgb(245, 245, 245)  ;
+ padding-bottom: 150px;
+}
+
+
+
+
+
+/* start of footer css */
+
+.footer_bg{
+    background-color: rgb(231, 231, 231);
+
+}
